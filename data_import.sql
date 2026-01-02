@@ -48,3 +48,5 @@ IGNORE 1 ROWS;
 Option B: Use the Import Wizard (User Friendly) If the script is too technical for your local setup, you can use the MySQL Workbench Table Data Import Wizard: Right-click your table (e.g., Sales) in the Navigator on the left. Select Table Data Import Wizard. Browse for your CSV and follow the prompts.
 
 
+  -- Download the CSVs from the /data folder and update the file paths below to your local download directory before running.
+
