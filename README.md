@@ -49,3 +49,8 @@ Setup: Run the schema_setup.sql to create the tables.
 Data Loading: Use the import_data.sql script to load the CSV files into your MySQL environment.
 
 Analysis: The maven_toys_analysis.sql file contains all 30 queries, commented by business question.
+
+## 📊 Dataset
+The raw data used for this project can be found in the [data/](./data) folder of this repository. 
+* **Source:** Maven Analytics (Maven Toys Challenge)
+* **Format:** 4 CSV files (Sales, Products, Stores, Inventory)
